@@ -3,11 +3,12 @@ title: Top Coin Exchanges
 email: your-email@domain.com
 description: Top Coin Exchanges
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://www.topcoinexchanges.com" # the base hostname & protocol for your site
+url: "http://topcoinexchanges.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  topcoinexchanges
 movieFormUrl: https://staticman.net/api/v1/entries/5622d244c4bf944a1a3e3001
-form_post: https://api.staticman.net/v2/entry/johnrlive/popcorn/gh-pages/comments
+form_post: https://api.staticman.net/v2/entry/topcoinexchanges/topcoinexchanges.github.io/master/comments
+
 
 # Build settings
 markdown: kramdown
