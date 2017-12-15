@@ -1,0 +1,24 @@
+# Site settings
+title: Top Coin Exchanges
+email: your-email@domain.com
+description: Top Coin Exchanges
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://www.topcoinexchanges.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+movieFormUrl: https://staticman.net/api/v1/entries/5622d244c4bf944a1a3e3001
+form_post: https://api.staticman.net/v2/entry/johnrlive/popcorn/gh-pages/comments
+
+# Build settings
+markdown: kramdown
+
+# Staticman
+staticman:
+ allowedFields: ['name', 'title', 'description', 'rating']
+ branch: gh-pages
+ commitMessage: "Hey human, here is a new entry."
+ filename: "entry{@timestamp}"
+ format: yml
+ moderation: true
+ path: "_data/reviews"
+ requiredFields: ['name', 'title', 'description', 'rating']
