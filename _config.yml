@@ -7,7 +7,7 @@ url: "http://topcoinexchanges.github.io" # the base hostname & protocol for your
 twitter_username: jekyllrb
 github_username:  topcoinexchanges
 movieFormUrl: https://staticman.net/api/v1/entries/5622d244c4bf944a1a3e3001
-form_post: https://api.staticman.net/v2/entry/topcoinexchanges/topcoinexchanges.github.io/master/comments
+form_post: https://api.staticman.net/v1/entry/topcoinexchanges/topcoinexchanges.github.io/master
 
 
 # Build settings
