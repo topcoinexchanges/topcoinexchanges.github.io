@@ -1,5 +1,6 @@
 body {
-	font-size: 16px;
+    font-size: 16px;
+    color: rgba(77,77,77);
 }
 
 .hero {
@@ -39,8 +40,8 @@ section + section {
 .header {
 	overflow: hidden;
 	text-align: center;
-	background-color: rgb(63,81,181);
-	color: white;
+    background-color: rgb(247,147,26);
+	color: rgb(77,77,77);
 	padding: 0 1em 1em 1em;
 }
 
@@ -54,12 +55,13 @@ section + section {
 
 .constrain {
 	width: 100%;
-	max-width: 700px;
+	max-width: 960px;
 	margin-left: auto;
 	margin-right: auto;
 	padding-left: 1em;
 	padding-right: 1em;
-	box-sizing: border-box;
+    box-sizing: border-box;
+    color: rgb(77,77,77);
 }
 
 .form {
@@ -104,7 +106,7 @@ section + section {
 
 .rating-star {
 	width: 24px;
-	color: #EBBD5B;
+	color: rgb(247,147,26);
 	vertical-align: middle;
 }
 
